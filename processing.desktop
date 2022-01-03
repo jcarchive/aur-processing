@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=4.0b2
+
+Name=Processing
+GenericName=Processing IDE
+
+Icon=/usr/share/processing/lib/icons/foundation-64.png
+Comment=Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.
+Keywords=development;java;processing;
+Categories=Development;IDE;
+
+Terminal=false
+StartupNotify=true
+StartupWMClass=processing
+X-MultipleArgs=false
+Exec=/usr/bin/processing
+
